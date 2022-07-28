@@ -1,0 +1,51 @@
+	EXEMPLO 1
+--PROGRAMACAO DINAMICA--
+Caminho:
+Linha 1, Estacao 1
+Linha 2, Estacao 2
+Linha 1, Estacao 3
+Linha 1, Estacao 4
+Linha 1, Estacao 5
+Linha 2, Estacao 6
+Linha 2, Estacao 7
+Linha 1, Estacao 8
+Linha 1, Estacao 9
+Tempo gasto: 65
+
+--ALGORITMO GULOSO--
+Caminho:
+Linha 1, Estacao 1
+Linha 2, Estacao 2
+Linha 2, Estacao 3
+Linha 2, Estacao 4
+Linha 2, Estacao 5
+Linha 2, Estacao 6
+Linha 2, Estacao 7
+Linha 1, Estacao 8
+Linha 1, Estacao 9
+Tempo gasto: 68
+
+	EXEMPLO 2
+--PROGRAMACAO DINAMICA--
+Caminho:
+Linha 1, Estacao 1
+Linha 2, Estacao 2
+Linha 1, Estacao 3
+Linha 1, Estacao 4
+Linha 1, Estacao 5
+Linha 1, Estacao 6
+Linha 1, Estacao 7
+Linha 1, Estacao 8
+Tempo gasto: 62
+
+--ALGORITMO GULOSO--
+Caminho:
+Linha 2, Estacao 1
+Linha 2, Estacao 2
+Linha 2, Estacao 3
+Linha 2, Estacao 4
+Linha 2, Estacao 5
+Linha 2, Estacao 6
+Linha 2, Estacao 7
+Linha 2, Estacao 8
+Tempo gasto: 131
